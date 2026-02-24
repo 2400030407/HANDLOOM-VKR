@@ -55,3 +55,4 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 4. Restart Vite dev server after adding env values.
 
 Recipient email is configured in checkout page as `madeticharanteja19@gmail.com`.
+"# handloon-fasd" 
